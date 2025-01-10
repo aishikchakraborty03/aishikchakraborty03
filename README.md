@@ -2,6 +2,8 @@
 <!-- ![MasterHead](https://i.pinimg.com/originals/ab/eb/3a/abeb3a2030882a1bf12225d23701ee5b.gif) -->
 <!-- ![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif) --> 
 ![MasterHead](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)  
+<h1 align="center">Hi 👋, I'm AISHIK CHAKRABORTY</h1>
+<h3 align="center">A BTech IT student and a Tech Enthusiast 🔭 Excited about learning and exploring new things ⚡ Doing Full Stack Development and UI/UX designs 😄 Interests in Machine Learning and BlockChain 🤔</h3>
 # 💫 About Me:
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <br><br>
