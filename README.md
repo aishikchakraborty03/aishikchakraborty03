@@ -7,7 +7,9 @@
 <br><br>
 
 A BTech CSE student and a Tech Enthusiast 🔭<br>Excited about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔<br>
-
+<br>
+<br>
+<br>
 
 
 ## 🌐 Socials:
