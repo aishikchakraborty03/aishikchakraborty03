@@ -3,6 +3,9 @@
 <!-- ![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif) --> 
 ![MasterHead](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)  
 # 💫 About Me:
+<img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<br><br>
+
 A BTech CSE student and a Tech Enthusiast 🔭<br>Excited about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔<br>
 
 
